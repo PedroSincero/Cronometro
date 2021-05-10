@@ -1,0 +1,67 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #282c34;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+}
+
+.display {
+  display: flex;
+  justify-content: center;
+  color: white;
+  border: 1px solid blue;
+}
+
+.tempo {
+  font-size: 100px;
+}
+
+.dois-ponto {
+  font-size: 100px;
+}
+
+.Button-Number {
+  font-size: 100px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 200px;
+}
+
+.Number {
+  font-size: 100px;
+}
+
+.reset {
+  font-size: 20px;
+}
+
+.apagar {
+  font-size: 20px;
+}
+
+.iniciar {
+  font-size: 60px;
+}
+
+.mais {
+  font-size: 60px;
+}
